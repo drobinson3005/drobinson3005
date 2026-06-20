@@ -6,11 +6,11 @@
 
 <div align="center">
 
-<img src="assets/github_banner_final.png" alt="Dwight Robinson — Genuine3005 | AI · Cybersecurity · Photography · Smart Home Architect" width="100%">
+<img src="assets/github_banner_final.png" alt="Dwight Robinson — Genuine3005 | AI · Cybersecurity · Photography · IoT/Smart Home" width="100%">
 
 # Dwight Robinson `// Genuine3005`
 
-### Enterprise IT Leader · Cybersecurity Scholar · Creative Technologist · AI Systems Architect
+### Enterprise IT Leader · Cybersecurity Graduate · Creative Technologist · AI Systems Architect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3005productions-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/3005productions)
 [![Instagram](https://img.shields.io/badge/Instagram-Genuine3005-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/Genuine3005/)
@@ -29,7 +29,7 @@
 
 My work lives at the intersection of **zero-trust security architecture**, **executive endpoint management**, and **AI-powered automation**. I'm not just an IT professional — I'm a systems thinker who builds infrastructure that scales, secures, and serves people at the highest level.
 
-I hold a psychology degree alongside a cybersecurity B.S. in progress — because understanding *people* is just as important as hardening the systems they rely on. That combination is my edge.
+I hold an A.A. in Psychology and a B.S. in Cybersecurity — earned May 2026, Alpha Sigma Lambda Honor Society — because understanding *people* is just as important as hardening the systems they rely on. That combination is my edge.
 
 Outside the enterprise, I operate **3005 Productions LLC**, a creative technology company focused on high-end documentary photography, smart home automation architecture, cybersecurity hardening, and a custom AI-driven corporate operating system I built from the ground up.
 
@@ -114,7 +114,7 @@ High-end digital and documentary photography. Identity work, event coverage, and
 
 | Degree | Institution | Status |
 |---|---|---|
-| B.S. Cybersecurity *(Alpha Sigma Lambda Honor Society)* | University of Maryland Global Campus | In Progress — May 2026 |
+| B.S. Cybersecurity *(Alpha Sigma Lambda Honor Society)* | University of Maryland Global Campus | ✅ Completed May 2026 |
 | A.A. Psychology | Borough of Manhattan Community College | ✅ Completed 2023 |
 | A+ · Computer Science | Year Up | ✅ Completed 2018 |
 
