@@ -6,8 +6,7 @@
 
 <div align="center">
 
-<!-- BANNER PLACEHOLDER — Palette Canva banner goes here after export -->
-<!-- <img src="banner.png" alt="Dwight Robinson — Genuine3005" width="100%"> -->
+<img src="assets/github_banner_final.png" alt="Dwight Robinson — Genuine3005 | AI · Cybersecurity · Photography · Smart Home Architect" width="100%">
 
 # Dwight Robinson `// Genuine3005`
 
