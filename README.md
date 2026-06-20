@@ -29,7 +29,7 @@
 
 My work lives at the intersection of **zero-trust security architecture**, **executive endpoint management**, and **AI-powered automation**. I'm not just an IT professional — I'm a systems thinker who builds infrastructure that scales, secures, and serves people at the highest level.
 
-I hold an A.A. in Psychology and a B.S. in Cybersecurity — earned May 2026, Alpha Sigma Lambda Honor Society — because understanding *people* is just as important as hardening the systems they rely on. That combination is my edge.
+I hold an A.A. in Psychology and a B.S. in Cybersecurity — because understanding *people* is just as important as hardening the systems they rely on. That combination is my edge.
 
 Outside the enterprise, I operate **3005 Productions LLC**, a creative technology company focused on high-end documentary photography, smart home automation architecture, cybersecurity hardening, and a custom AI-driven corporate operating system I built from the ground up.
 
