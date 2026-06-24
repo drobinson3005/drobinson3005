@@ -116,7 +116,7 @@ High-end digital and documentary photography. Identity work, event coverage, and
 |---|---|---|
 | B.S. Cybersecurity *(Alpha Sigma Lambda Honor Society)* | University of Maryland Global Campus | ✅ Completed May 2026 |
 | A.A. Psychology | Borough of Manhattan Community College | ✅ Completed 2023 |
-| A+ · Computer Science | Year Up | ✅ Completed 2018 |
+| Internship | Year Up | ✅ Completed 2018 |
 
 **Certifications:** JAMF Pro Associate · Project Management (UMGC) · Microsoft PowerPoint 2021
 
