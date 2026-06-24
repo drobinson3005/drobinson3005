@@ -15,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3005productions-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/3005productions)
 [![Instagram](https://img.shields.io/badge/Instagram-Genuine3005-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/Genuine3005/)
 [![Photography](https://img.shields.io/badge/Portfolio-Photography-4285F4?style=flat-square&logo=google&logoColor=white)](https://photos.app.goo.gl/ZKGTSUEDHfkcdthd9)
-[![Email](https://img.shields.io/badge/Email-drobinson3005@icloud.com-000000?style=flat-square&logo=apple&logoColor=white)](mailto:drobinson3005@icloud.com)
+[![Email](https://img.shields.io/badge/Email-dwight.robinson@3005productions.com-000000?style=flat-square&logo=apple&logoColor=white)](mailto:drobinson3005@icloud.com)
 
 *Bronx, New York — Building systems that remember. Securing the infrastructure that matters.*
 
