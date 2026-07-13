@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="assets/github_banner_final.png" alt="Dwight Robinson — Genuine3005 | AI · Cybersecurity · Photography · IoT/Smart Home" width="100%">
+<img src="assets/github_banner_final.png" alt="3005 Productions — Dwight Robinson (Genuine3005) | Enterprise IT · Cybersecurity · Creative Technology" width="100%">
 
 # Dwight Robinson `// Genuine3005`
 
@@ -40,14 +40,16 @@ Outside the enterprise, I operate **3005 Productions LLC**, a creative technolog
 ### 🏢 3005 Productions LLC — Corporate AI Operating System
 > *Built entirely in Claude Code. Live and running.*
 
-A fully autonomous multi-agent corporate OS with **39 specialized AI agents** across three tiers (ELT · SLT · Staff). It handles security threat modeling, weekly compliance sweeps, Friday assurance scans, session governance, intake pipelines, personal brand management, and more — all orchestrated through a custom hook and cron automation layer on GitHub.
+A fully autonomous multi-agent corporate OS with **40 specialized AI agents** across three tiers (ELT · SLT · Staff). It handles security threat modeling, weekly compliance sweeps, Friday assurance scans, session governance, intake pipelines, personal brand management, and more — all orchestrated through a custom hook and cron automation layer on GitHub.
 
 This is not a proof-of-concept. It's a production system. Every session is documented, every agent has a mandate, every decision has a paper trail.
+
+The automation layer is **self-healing**: cloud cron routines run layered assurance scans that file partial results instead of failing silently, backed by a local verification watchdog that catches and recovers any missed run.
 
 ### 🧠 RememberMe — Memory Preservation Platform
 > *What gets forgotten is what gets lost.*
 
-A subsidiary venture focused on personal and family memory preservation — capturing and structuring histories before they fade. AI synthesis meets archival intelligence. Currently in active development.
+A subsidiary venture focused on personal and family memory preservation — capturing and structuring histories before they fade. AI synthesis meets archival intelligence. Now past concept — MVP feature spec, product requirements, and a privacy/security baseline are defined, with a partnership-funded accessibility model for those facing memory loss.
 
 ### 📸 Photography & Visual Production
 High-end digital and documentary photography. Identity work, event coverage, and visual storytelling for individuals and brands in the New York area.
