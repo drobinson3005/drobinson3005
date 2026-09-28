@@ -1,12 +1,12 @@
 <!--
-  GENUINE3005 — GitHub Profile README
-  Banner: Palette Canva export — dark slate, phoenix+wolf motif, GENUINE3005 typography
+  GENUINE3005: GitHub Profile README
+  Banner: Palette Canva export: dark slate, phoenix+wolf motif, GENUINE3005 typography
   Push: drobinson3005/drobinson3005
 -->
 
 <div align="center">
 
-<img src="assets/github_banner_final.png" alt="3005 Productions — Dwight Robinson (Genuine3005) | Enterprise IT · Cybersecurity · Creative Technology" width="100%">
+<img src="assets/github_banner_final.png" alt="3005 Productions: Dwight Robinson (Genuine3005) | Enterprise IT · Cybersecurity · Creative Technology" width="100%">
 
 # Dwight Robinson `// Genuine3005`
 
@@ -14,10 +14,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3005productions-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/3005productions)
 [![Instagram](https://img.shields.io/badge/Instagram-Genuine3005-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/Genuine3005/)
-[![Photography](https://img.shields.io/badge/Portfolio-Photography-4285F4?style=flat-square&logo=google&logoColor=white)](https://photos.app.goo.gl/ZKGTSUEDHfkcdthd9)
-[![Email](https://img.shields.io/badge/Email-dwight.robinson@3005productions.com-000000?style=flat-square&logo=apple&logoColor=white)](mailto:drobinson3005@icloud.com)
+[![Photography](https://img.shields.io/badge/Portfolio-3005productions.com-4285F4?style=flat-square)](https://3005productions.com)
+[![Email](https://img.shields.io/badge/Email-drobinson3005@icloud.com-000000?style=flat-square&logo=apple&logoColor=white)](mailto:drobinson3005@icloud.com)
 
-*Bronx, New York — Building systems that remember. Securing the infrastructure that matters.*
+*New York. Building systems that remember. Securing the infrastructure that matters.*
 
 </div>
 
@@ -25,34 +25,34 @@
 
 ## Who I Am
 
-9+ years in enterprise IT infrastructure — specializing in **C-Suite "white-glove" technical partnership** at world-class organizations: Apple, Lyft, the United Nations International School, MoMA, and currently A Place for Mom.
+8+ years in enterprise IT, most of it as the **white-glove technology partner to executive teams**: Apple, MoMA, the United Nations International School, Lyft, and now A Place for Mom.
 
-My work lives at the intersection of **zero-trust security architecture**, **executive endpoint management**, and **AI-powered automation**. I'm not just an IT professional — I'm a systems thinker who builds infrastructure that scales, secures, and serves people at the highest level.
+My work sits where **security**, **executive endpoint management** and **AI automation** meet. When I see the same risky task done by hand again and again, I build a safer way to do it.
 
-I hold an A.A. in Psychology and a B.S. in Cybersecurity — because understanding *people* is just as important as hardening the systems they rely on. That combination is my edge.
+I hold an A.A. in Psychology and a B.S. in Cybersecurity. Understanding *people* matters as much as hardening the systems they rely on.
 
-Outside the enterprise, I operate **3005 Productions LLC**, a creative technology company focused on high-end documentary photography, smart home automation architecture, cybersecurity hardening, and a custom AI-driven corporate operating system I built from the ground up.
+Outside the enterprise, I operate **3005 Productions**, a creative technology company focused on high-end documentary photography, smart home automation architecture, cybersecurity hardening, and a custom AI-driven corporate operating system I built from the ground up.
 
 ---
 
 ## What I Build
 
-### 🏢 3005 Productions LLC — Corporate AI Operating System
+### 🏢 3005 Productions: Corporate AI Operating System
 > *Built entirely in Claude Code. Live and running.*
 
-A fully autonomous multi-agent corporate OS with **40 specialized AI agents** across three tiers (ELT · SLT · Staff). It handles security threat modeling, weekly compliance sweeps, Friday assurance scans, session governance, intake pipelines, personal brand management, and more — all orchestrated through a custom hook and cron automation layer on GitHub.
+A multi-agent corporate operating system with **46 specialized AI agents** across three tiers (ELT · SLT · Staff). It handles security threat modeling, weekly compliance and website scans, session governance, intake, personal brand work and more, run through a custom hook and scheduled-automation layer on GitHub. I review and approve every change it makes.
 
 This is not a proof-of-concept. It's a production system. Every session is documented, every agent has a mandate, every decision has a paper trail.
 
 The automation layer is **self-healing**: cloud cron routines run layered assurance scans that file partial results instead of failing silently, backed by a local verification watchdog that catches and recovers any missed run.
 
-### 🧠 RememberMe — Memory Preservation Platform
+### 🧠 RememberMe: Memory Preservation Platform
 > *What gets forgotten is what gets lost.*
 
-A subsidiary venture focused on personal and family memory preservation — capturing and structuring histories before they fade. AI synthesis meets archival intelligence. Now past concept — MVP feature spec, product requirements, and a privacy/security baseline are defined, with a partnership-funded accessibility model for those facing memory loss.
+A memory companion for people and families: capturing and organizing the moments that matter before they fade. Now past concept, with an MVP feature spec, product requirements and a privacy and security baseline defined, plus a partnership-funded accessibility model for people facing memory loss.
 
 ### 📸 Photography & Visual Production
-High-end digital and documentary photography. Identity work, event coverage, and visual storytelling for individuals and brands in the New York area.
+Portraits, events, documentary and creative photography across New York City. See the work at [3005productions.com](https://3005productions.com).
 
 ---
 
@@ -104,11 +104,11 @@ High-end digital and documentary photography. Identity work, event coverage, and
 
 | Role | Organization | Tenure |
 |---|---|---|
-| Technology Support Partner — Executive Services | **A Place for Mom** | March 2026 – Present |
-| IT Support Team Lead (C-Suite Partner) | **Lyft** | Oct 2024 – March 2026 |
-| IT System Specialist / AV Technician | **United Nations International School** | July 2024 – Oct 2024 |
-| Client Service Technician | **Museum of Modern Art (MoMA)** | Oct 2023 – July 2024 |
-| Technical Specialist + Training Lead | **Apple** | Oct 2019 – Oct 2023 |
+| Technology Support Partner, Executive Services | **A Place for Mom** | March 2026 to Present |
+| IT Support Specialist / AV Technician (Contract) | **Lyft** | Oct 2024 to March 2026 |
+| IT Systems Specialist / AV Technician (Contract) | **United Nations International School** | July 2024 to Oct 2024 |
+| Client Service Technician (Contract) | **Museum of Modern Art (MoMA)** | Oct 2023 to July 2024 |
+| Technical Specialist, then Training Lead | **Apple** | Oct 2019 to Oct 2023 |
 
 ---
 
@@ -116,11 +116,11 @@ High-end digital and documentary photography. Identity work, event coverage, and
 
 | Degree | Institution | Status |
 |---|---|---|
-| B.S. Cybersecurity *(Alpha Sigma Lambda Honor Society)* | University of Maryland Global Campus | ✅ Completed May 2026 |
-| A.A. Psychology | Borough of Manhattan Community College | ✅ Completed 2023 |
-| Internship | Year Up | ✅ Completed 2018 |
+| B.S. Cybersecurity, Certificate in Project Management *(Alpha Sigma Lambda Honor Society)* | University of Maryland Global Campus | ✅ Completed 2026 |
+| A.A. Psychology | Borough of Manhattan Community College | ✅ Completed |
+| Information Technology program | Year Up | ✅ Alumnus |
 
-**Certifications:** JAMF Pro Associate · Project Management (UMGC) · Microsoft PowerPoint 2021
+**Certifications:** CompTIA A+ · Jamf Pro Certified · Apple Certified Mac Technician (ACMT) · Apple Certified iOS Technician (ACiT) · Microsoft PowerPoint 2021
 
 ---
 
